@@ -1,7 +1,7 @@
 # search_engine
 An implementation of the search engine created in the Udacity Intro to Computer Science course.
 
-# Algorithm details
+# Algorithm overview
 Crawl the web starting from a seed page.
 
 Ensure the crawler doesn't crawl the same page twice.
